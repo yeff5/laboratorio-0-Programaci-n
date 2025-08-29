@@ -1,4 +1,4 @@
-Este repositorio tiene varios codigos en python que permite calcular el área de superficie corporal usando
+codigos en python que permite calcular el área de superficie corporal usando
 (BSA), clasificarla por rangos, procesar varios personas y calcular sus rangos de peso para una BSA considerada "normal" según la altura.Contenido
 
 1_2LAB.py — Funciones más básicas: cálculo del BSA y clasificación por rangos
